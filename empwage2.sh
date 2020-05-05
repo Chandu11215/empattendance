@@ -1,5 +1,4 @@
 #!/bin/bash/ -x
-echo "welcome to empwage2"
 
 
 isPresent=1;
